@@ -8,3 +8,4 @@
   - This project attempts to predict the winner of pokemon battles!. I analyze which stats make a pokemon victorious, and apply my findings to a series of test battles.
   - Still to do:
     - Further investigate the effects of other stats
+    - Predict winners in the test battles csv
