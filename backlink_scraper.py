@@ -1,5 +1,4 @@
 
-```python
 import datetime as dt
 import json
 import re
@@ -96,4 +95,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
